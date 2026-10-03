@@ -52,7 +52,7 @@ The dashboard includes multiple analytical pages covering:
 ---
 
 ##  Doctor Dashboard
-![Doctor Dashboard](https://github.com/Ayushs0001/Hospital_Management_Dashboard/blob/main/Doctor%20Dashboard.png)
+![Doctor Dashboard](https://github.com/Ayushs0001/Hospital_Management_Dashboard/blob/main/Doctor_Dashboard.png)
 
 ---
 
