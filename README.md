@@ -42,7 +42,7 @@ The dashboard includes multiple analytical pages covering:
 ---
 
 ##  Overview Dashboard
-![Overview Dashboard](https://github.com/Ayushs0001/Hospital_Management_Dashboard/blob/main/Overview%20Dashboard.png)
+![Overview Dashboard](https://github.com/Ayushs0001/Hospital_Management_Dashboard/blob/main/Overview_Dashboard.png)
 
 ---
 
