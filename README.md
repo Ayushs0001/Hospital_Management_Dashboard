@@ -62,7 +62,7 @@ The dashboard includes multiple analytical pages covering:
 ---
 
 ##  Finance Dashboard
-![Finance Dashboard](https://github.com/Ayushs0001/Hospital_Management_Dashboard/blob/main/Finance%20Dashboard.png)
+![Finance Dashboard](https://github.com/Ayushs0001/Hospital_Management_Dashboard/blob/main/Finance_Dashboard.png)
 
 ---
 
