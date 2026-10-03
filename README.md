@@ -37,7 +37,7 @@ The dashboard includes multiple analytical pages covering:
 #  Dashboard Preview
 
 ##  Home Dashboard
-![Home Dashboard](https://github.com/Ayushs0001/Hospital_Management_Dashboard/blob/main/Home%20Dashboard.png)
+![Home Dashboard](https://github.com/Ayushs0001/Hospital_Management_Dashboard/blob/main/Home_Dashboard.png)
 
 ---
 
