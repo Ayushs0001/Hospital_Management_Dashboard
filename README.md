@@ -47,7 +47,7 @@ The dashboard includes multiple analytical pages covering:
 ---
 
 ##  Patient Dashboard
-![Patient Dashboard](https://github.com/Ayushs0001/Hospital_Management_Dashboard/blob/main/Patient%20Dashboard.png)
+![Patient Dashboard](https://github.com/Ayushs0001/Hospital_Management_Dashboard/blob/main/Patient_Dashboard.png)
 
 ---
 
