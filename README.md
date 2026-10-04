@@ -89,7 +89,6 @@ The dashboard includes multiple analytical pages covering:
 
 # 🛠️ Tools & Technologies
 
--  Python
 -  MySQL
 -  Power BI
 -  ETL
@@ -105,14 +104,14 @@ The dashboard includes multiple analytical pages covering:
 ```bash
 Hospital_Management_Dashboard/
 │
-├── Hospital_Dashboard.pbix
-├── README.md
+├── Doctor_Dashboard.png
+├── Finance_Dashboard.png
 ├── Home_Dashboard.png
+├── Hospital_Dashboard.pbix
+├── Hospital_Dashboard.png
 ├── Overview_Dashboard.png
 ├── Patient_Dashboard.png
-├── Doctor_Dashboard.png
-├── Hospital_Dashboard.png
-└── Finance_Dashboard.png
+└── README.md
 ```
 
 ---
